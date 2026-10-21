@@ -1,0 +1,4 @@
+interface:
+  display_name: "台灣裁判書研究"
+  short_description: "依法律爭點搜尋司法院裁判，核對全文並整理可追溯引用"
+  default_prompt: "使用 $taiwan-judgment-research 依下列爭點搜尋並整理相關裁判。"
